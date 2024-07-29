@@ -12,4 +12,4 @@ To use the program change the parts with all bold words.
 
 "YOUR CLAUDE 3 Haiku API"
 
-After replace the txt file with the list of article titles
+Either replace or add the txt file with the list of article titles
